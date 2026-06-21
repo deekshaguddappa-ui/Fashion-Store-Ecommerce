@@ -36,6 +36,29 @@ MVC Architecture
 
 MySQL
 
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Login Page
+![Login Page](screenshots/login.png)
+
+### Products Page
+![Products Page](screenshots/products.png)
+
+### Product Details Page
+![Product Details](screenshots/product-details.png)
+
+### Cart Page
+![Cart Page](screenshots/cart.png)
+
+### Checkout Page
+![Checkout Page](screenshots/checkout.png)
+
+### Order Confirmation Page
+![Order Confirmation Page](screenshots/confirmation.png)
+
 ## Author
 
 Deeksha G
