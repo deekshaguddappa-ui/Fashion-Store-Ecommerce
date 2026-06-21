@@ -1,0 +1,144 @@
+/* =========================
+   ORDER CONFIRMATION PAGE
+========================= */
+
+.order-confirmation-page {
+    padding-bottom: 30px;
+}
+
+.order-confirmation-section {
+    padding: 40px 20px;
+}
+
+/* =========================
+   SUCCESS CARD
+========================= */
+
+.confirmation-card {
+    max-width: 600px;
+    margin: 0 auto 30px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    padding: 30px;
+    text-align: center;
+    box-shadow: 0 8px 24px rgba(91, 61, 245, 0.08);
+}
+
+.confirmation-card h1 {
+    font-size: 28px;
+    color: #5b3df5;
+    margin-bottom: 10px;
+}
+
+.confirmation-card p {
+    color: #555;
+    margin-bottom: 8px;
+}
+
+/* =========================
+   ORDER ITEMS
+========================= */
+
+.order-items {
+    max-width: 800px;
+    margin: 0 auto 30px;
+}
+
+.order-items h2 {
+    margin-bottom: 20px;
+    color: #222;
+}
+
+.order-item-card {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 16px;
+    margin-bottom: 15px;
+    box-shadow: 0 8px 24px rgba(91, 61, 245, 0.08);
+}
+
+.order-item-info p {
+    margin: 4px 0;
+    color: #444;
+}
+
+.order-item-price {
+    font-size: 18px;
+    font-weight: 600;
+    color: #5b3df5;
+}
+
+/* =========================
+   TOTAL
+========================= */
+
+.order-total {
+    max-width: 800px;
+    margin: 0 auto 30px;
+    text-align: right;
+}
+
+.order-total h3 {
+    font-size: 22px;
+    color: #222;
+}
+
+/* =========================
+   ACTION BUTTONS
+========================= */
+
+.confirmation-actions {
+    text-align: center;
+}
+
+.btn-primary {
+    display: inline-block;
+    background-color: #5b3df5;
+    color: #ffffff;
+    padding: 12px 20px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 600;
+    margin: 10px;
+    transition: 0.3s;
+}
+
+.btn-primary:hover {
+    background-color: #4a2fe0;
+}
+
+.btn-secondary {
+    display: inline-block;
+    background-color: #e5e5e5;
+    color: #333;
+    padding: 12px 20px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 600;
+    margin: 10px;
+    transition: 0.3s;
+}
+
+.btn-secondary:hover {
+    background-color: #d5d5d5;
+}
+
+/* =========================
+   RESPONSIVE
+========================= */
+
+@media (max-width: 768px) {
+
+    .order-item-card {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10px;
+    }
+
+    .order-total {
+        text-align: left;
+    }
+}

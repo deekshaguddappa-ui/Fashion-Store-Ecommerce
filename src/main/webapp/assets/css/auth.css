@@ -1,0 +1,124 @@
+/* =========================
+   AUTH PAGE (REGISTER / LOGIN)
+========================= */
+
+.auth-page {
+    padding: 40px 20px;
+}
+
+
+/* =========================
+   SECTION
+========================= */
+
+.auth-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 70vh;
+}
+
+
+/* =========================
+   CARD
+========================= */
+
+.auth-card {
+    width: 100%;
+    max-width: 450px;
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 8px 24px rgba(91, 61, 245, 0.08);
+}
+
+
+/* =========================
+   HEADER
+========================= */
+
+.auth-card h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #222;
+}
+
+
+/* =========================
+   FORM
+========================= */
+
+.form-row {
+    margin-bottom: 15px;
+}
+
+.form-row input {
+    width: 100%;
+    padding: 12px 14px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    font-size: 14px;
+    outline: none;
+    transition: border 0.2s;
+}
+
+.form-row input:focus {
+    border-color: #5b3df5;
+}
+
+
+/* =========================
+   BUTTON
+========================= */
+
+.auth-submit-btn {
+    width: 100%;
+    margin-top: 10px;
+}
+
+
+/* =========================
+   FOOTER TEXT
+========================= */
+
+.auth-footer-text {
+    text-align: center;
+    margin-top: 15px;
+    font-size: 14px;
+    color: #666;
+}
+
+.auth-footer-text a {
+    color: #5b3df5;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.auth-footer-text a:hover {
+    text-decoration: underline;
+}
+
+
+/* =========================
+   ERROR MESSAGE
+========================= */
+
+.auth-error {
+    color: red;
+    font-size: 14px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+
+/* =========================
+   RESPONSIVE
+========================= */
+
+@media (max-width: 576px) {
+
+    .auth-card {
+        padding: 20px;
+    }
+}
