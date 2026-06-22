@@ -56,13 +56,16 @@ MySQL
 ### Checkout Page
 ![Checkout Page](screenshots/checkout.png)
 
-
-
 ## Project Demo Video
 
-🎥 Watch the complete project demonstration here:
+🎥 Google Drive Demo:
 
-[Click Here to Watch Demo](https://drive.google.com/file/d/1l4bm29Xjwxdi5Lunn4W2mZujL-ljZH9-/view?usp=sharing)
+[▶️ Click Here to Watch Demo](https://drive.google.com/file/d/1l4bm29Xjwxdi5Lunn4W2mZujL-ljZH9-/view?usp=sharing)
+
+🎥 Loom Recording:
+
+[▶️ Click Here to Watch Loom Recording]([YOUR_LOOM_LINK](https://www.loom.com/share/a688104f328b4431aaa089323acb6ed2))
+
 
 ## Author
 
