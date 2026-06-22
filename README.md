@@ -56,8 +56,13 @@ MySQL
 ### Checkout Page
 ![Checkout Page](screenshots/checkout.png)
 
-### Order Confirmation Page
-![Order Confirmation Page](screenshots/confirmation.png)
+
+
+## Project Demo Video
+
+🎥 Watch the complete project demonstration here:
+
+[Click Here to Watch Demo](https://drive.google.com/file/d/1l4bm29Xjwxdi5Lunn4W2mZujL-ljZH9-/view?usp=sharing)
 
 ## Author
 
