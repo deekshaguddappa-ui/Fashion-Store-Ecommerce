@@ -64,7 +64,7 @@ MySQL
 
 🎥 Loom Recording:
 
-[▶️ Click Here to Watch Loom Recording]([YOUR_LOOM_LINK](https://www.loom.com/share/a688104f328b4431aaa089323acb6ed2))
+[▶️ Click Here to Watch Loom Recording](https://www.loom.com/share/a688104f328b4431aaa089323acb6ed2)
 
 
 ## Author
